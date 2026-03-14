@@ -1,0 +1,118 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "Full-stack online store built with React, Node.js and PostgreSQL. Features user authentication, cart, and Stripe payments.",
+      "tech": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Stripe"
+      ],
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 2,
+      "title": "Task Manager App",
+      "description": "Drag-and-drop task board inspired by Trello. Built with React DnD and Firebase real-time database.",
+      "tech": [
+        "React",
+        "Firebase",
+        "React DnD",
+        "CSS Grid"
+      ],
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "description": "Real-time weather app consuming OpenWeatherMap API with animated SVG visuals and geolocation.",
+      "tech": [
+        "React",
+        "OpenWeatherMap API",
+        "SVG",
+        "Geolocation"
+      ],
+      "github": "https://github.com",
+      "live": "https://example.com"
+    },
+    {
+      "id": 4,
+      "title": "Portfolio Website",
+      "description": "This very portfolio! Built with React, React Router, useContext for theming, and clean modular CSS.",
+      "tech": [
+        "React",
+        "React Router",
+        "useContext",
+        "CSS"
+      ],
+      "github": "https://github.com",
+      "live": "https://example.com"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "React",
+      "level": 55,
+      "category": "Frontend"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript (ES6+)",
+      "level": 75,
+      "category": "Frontend"
+    },
+    {
+      "id": 3,
+      "name": "HTML & CSS",
+      "level": 95,
+      "category": "Frontend"
+    },
+    {
+      "id": 4,
+      "name": "Node.js",
+      "level": 50,
+      "category": "Backend"
+    },
+    {
+      "id": 5,
+      "name": "Python",
+      "level": 65,
+      "category": "Backend"
+    },
+    {
+      "id": 6,
+      "name": "PostgreSQL",
+      "level": 15,
+      "category": "Database"
+    },
+    {
+      "id": 7,
+      "name": "Firebase",
+      "level": 15,
+      "category": "Database"
+    },
+    {
+      "id": 8,
+      "name": "Git & GitHub",
+      "level": 85,
+      "category": "Tools"
+    },
+    {
+      "id": 9,
+      "name": "REST APIs",
+      "level": 35,
+      "category": "Tools"
+    },
+    {
+      "id": 10,
+      "name": "Figma",
+      "level": 15,
+      "category": "Design"
+    }
+  ]
+}
