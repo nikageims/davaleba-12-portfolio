@@ -11,7 +11,7 @@ export default function About() {
       <div className="about__grid">
         <div className="about__avatar-wrap">
           <div className="about__avatar">
-            <span>NB</span>
+            <span>NG</span>
           </div>
           <div className="about__availability">
             <span className="dot"></span> Available for work
