@@ -20,7 +20,7 @@ export default function About() {
 
         <div className="about__text">
           <p>
-            Hi! I'm <strong>Nika Beridze</strong>, a passionate frontend developer based in Tbilisi,
+            Hi! I'm <strong>Nika_Geims</strong>, a passionate developer based in Tbilisi,
             Georgia. I love turning complex problems into simple, beautiful, and intuitive web interfaces.
           </p>
           <p>
